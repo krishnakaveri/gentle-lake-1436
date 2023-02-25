@@ -49,3 +49,16 @@ function Boysclothes(props) {
 }
 
 export default Boysclothes;
+
+{/* <Skeleton count={5} /> */}
+
+{/* <Box width={"100%"}  display={"flex"} justifyContent={"center"}>
+            <Spinner
+            marginTop="50px"
+  thickness='4px'
+  speed='0.65s'
+  emptyColor='gray.200'
+  color='blue.500'
+  size='xl'
+/>
+                </Box> */}
